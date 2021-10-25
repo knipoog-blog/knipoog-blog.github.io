@@ -162,10 +162,21 @@ const readFeed = (site) => {
 const readAllFeeds = () => {
     console.log('Fetching all blogs...');
     return Promise.all(feeds.map(readFeed)).then(results => {
+      const posts = [].concat.apply([], results);
+
+      /* Blogs */
       console.log('Writing blogs!', path.resolve(dataFolder, "blogs.json"));
       fs.writeFileSync(path.resolve(dataFolder, "blogs.json"), JSON.stringify(feeds));
 
-      const posts = [].concat.apply([], results);
+      const routes = posts.map(post => `/${post.category.id}/${post.slug}`);
+      feeds.forEach(site => {
+        routes.push(`/${site.id}`)
+      });
+      fs.writeFileSync(path.resolve(dataFolder, "routes.txt"), routes.join("\r\n"));
+
+      /* Routes */
+
+      /* Latest posts */
         const latest = posts
           .sort((a, b) => {
             if (a.date < b.date) {

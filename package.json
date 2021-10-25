@@ -10,7 +10,7 @@
     "dev:ssr": "ng run knipoog-blog:serve-ssr",
     "serve:ssr": "node dist/knipoog-blog/server/main.js",
     "build:ssr": "ng build && ng run knipoog-blog:server",
-    "prerender": "ng run knipoog-blog:prerender",
+    "prerender": "ng run knipoog-blog:prerender --routes-file src/assets/data/routes.txt",
     "rss": "node ./agregator"
   },
   "private": true,

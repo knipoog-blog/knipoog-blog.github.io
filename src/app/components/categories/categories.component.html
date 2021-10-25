@@ -1,0 +1,9 @@
+<ul>
+  <li>
+    <a routerLinkActive="__active" [routerLink]="['/']">Recent</a>
+
+  </li>
+  <li *ngFor="let category of categories">
+    <a routerLinkActive="__active" [routerLink]="['/', category.id]">{{category.title}}</a>
+  </li>
+</ul>

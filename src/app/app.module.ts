@@ -8,12 +8,13 @@ import { CategoryComponent } from './pages/category/category.component';
 import { PostComponent } from './pages/post/post.component';
 import { CategoriesComponent } from './components/categories/categories.component';
 import { PostItemComponent } from './components/post-item/post-item.component';
-import {HttpClientModule} from "@angular/common/http";
+import {HTTP_INTERCEPTORS, HttpClientModule} from "@angular/common/http";
 import { PageHeaderComponent } from './components/page-header/page-header.component';
 import {CommonModule} from "@angular/common";
 import { registerLocaleData } from '@angular/common';
 import localeNl from '@angular/common/locales/nl';
 import { PostListComponent } from './components/post-list/post-list.component';
+import {BaseHrefInterceptor} from "./interceptors/baseHref.interceptor";
 registerLocaleData(localeNl);
 
 @NgModule({
@@ -33,7 +34,10 @@ registerLocaleData(localeNl);
     HttpClientModule,
     CommonModule,
   ],
-  providers: [{provide: LOCALE_ID, useValue: 'nl' }],
+  providers: [
+    {provide: LOCALE_ID, useValue: 'nl' },
+    { provide: HTTP_INTERCEPTORS, useClass: BaseHrefInterceptor, multi: true}
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

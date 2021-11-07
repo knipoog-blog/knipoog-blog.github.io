@@ -1,0 +1,23 @@
+name: Update RSS feeds
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Use Node 12.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Install dependencies
+        run: yarn  install
+      - name: Run agregator
+        run: yarn rss
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update RSS feeds

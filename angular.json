@@ -28,8 +28,9 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/apple-touch-icon-*",
-              "src/touch-icon*",
+              "src/apple-touch-icon-*.png",
+              "src/touch-icon.png",
+              "src/touch-icon-192x192.png",
               "src/assets"
             ],
             "styles": [

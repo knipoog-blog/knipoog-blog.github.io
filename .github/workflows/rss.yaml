@@ -11,6 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
+          token: ${{ secrets.PAT }}
           ref: master
       - name: Use Node 12.x
         uses: actions/setup-node@v1

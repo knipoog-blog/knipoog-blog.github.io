@@ -16,7 +16,7 @@ jobs:
       - name: Install dependencies
         run: yarn  install
       - name: Build
-        run: yarn build --base-href /knipoog-blog/
+        run: yarn build
       - name: Archive build
         if: success()
         uses: actions/upload-artifact@v1

@@ -1,0 +1,40 @@
+@import "../../../styles/variables.scss";
+
+a {
+  display: block;
+  position: relative;
+  color: inherit;
+  text-decoration: none;
+  transform-origin: 50% 50%;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0);
+  transition: transform .1s ease-in-out, box-shadow .25s ease-in-out;
+  &:hover {
+    color: inherit;
+    text-decoration: none;
+    img {
+      box-shadow: 0 0 8px rgba(0, 0, 0, .3);
+      transform: scale(1.04) rotate(3deg);
+    }
+  }
+
+}
+img {
+  border-radius: 8px;
+  width: 100%;
+  transition: all .1s ease-in-out;
+}
+.post-title {
+  padding: 16px;
+  background: white;
+  border-radius: 0 0 8px 8px;
+
+}
+.category {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  background: $secondary;
+  color: white;
+  padding: 5px;
+  transform: rotate(10deg);
+}

@@ -4,7 +4,7 @@ import {Post} from "../../blogs.types";
 @Component({
   selector: 'app-post-item',
   templateUrl: './post-item.component.html',
-  styleUrls: ['./post-item.component.sass']
+  styleUrls: ['./post-item.component.scss']
 })
 export class PostItemComponent implements OnInit {
 

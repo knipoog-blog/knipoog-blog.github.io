@@ -1,0 +1,29 @@
+@import "./variables.scss";
+
+header {
+  border-top: 6px solid $secondary;
+  padding: 10px 0;
+
+  .container {
+    display: flex;
+  }
+  .left-content {
+    flex: 1;
+  }
+  .logo {
+    margin-right: 15px;
+    img {
+      margin-bottom: -13px;
+    }
+  }
+  .right-content {
+    display: flex;
+    text-align: right;
+    flex-direction: column;
+  }
+  .title {
+    font-size: 26px;
+    font-weight: bold;
+    font-family: $headings-font-family;
+  }
+}

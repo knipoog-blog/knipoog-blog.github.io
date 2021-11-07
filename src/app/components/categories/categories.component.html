@@ -1,9 +1,11 @@
-<ul>
-  <li>
-    <a routerLinkActive="__active" [routerLink]="['/']">Recent</a>
-
-  </li>
-  <li *ngFor="let category of categories">
-    <a routerLinkActive="__active" [routerLink]="['/', category.id]">{{category.title}}</a>
-  </li>
-</ul>
+<nav class="container-fluid">
+  <ul class="nav nav-pills text-center">
+    <li class="nav-item">
+      <a class="nav-link" routerLinkActive="active" [routerLinkActiveOptions]="{exact:
+true}" [routerLink]="['/']">Recent</a>
+    </li>
+    <li class="nav-item"  *ngFor="let category of categories">
+      <a class="nav-link" routerLinkActive="active" [routerLink]="['/', category.id]">{{category.title}}</a>
+    </li>
+  </ul>
+</nav>

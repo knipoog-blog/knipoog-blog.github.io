@@ -5,7 +5,7 @@ import {Blog} from "../../blogs.types";
 @Component({
   selector: 'app-categories',
   templateUrl: './categories.component.html',
-  styleUrls: ['./categories.component.sass']
+  styleUrls: ['./categories.component.scss']
 })
 export class CategoriesComponent implements OnInit {
 

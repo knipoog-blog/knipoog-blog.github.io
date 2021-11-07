@@ -1,3 +1,5 @@
+import {Observable} from "rxjs";
+
 export interface Blog {
   id: string;
   title: string;
@@ -12,6 +14,7 @@ export interface Post {
     id: string;
     title: string;
   }
+  images: string[];
   image: {
     url: string;
   }

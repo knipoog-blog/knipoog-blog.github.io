@@ -1,4 +1,17 @@
-<ng-container *ngIf="post">
-  <h1>{{post.title}}</h1>
-  <img [src]="post.image.url" />
+<ng-container *ngIf="post && category">
+  <div class="container my-5">
+    <h1>{{ post.title }}</h1>
+    <div class="text-right">
+      {{ post.date | date:"longDate" }}
+    </div>
+    <p [innerHTML]="post.summary"></p>
+    <div class="row images-container">
+      <div class="col-6 col-md-4 col-lg-3 col-xl-2 mb-3" *ngFor="let image of post.images">
+        <a data-fslightbox="gallery"  href="{{ image }}"><img class="img-fluid img-thumbnail" src="{{ image }}" /></a>
+      </div>
+    </div>
+    <p>
+      <a href="/blog/{{ category.id }}/">&laquo; {{category.title}}</a>
+    </p>
+  </div>
 </ng-container>

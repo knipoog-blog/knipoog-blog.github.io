@@ -1,0 +1,14 @@
+@import "./variables.scss";
+
+.page-header {
+  color: white;
+  font-size: 40px;
+  font-family: $headings-font-family;
+  background-color: rebeccapurple;
+  padding: 20px 0;
+  h1 {
+    margin: 0;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+}

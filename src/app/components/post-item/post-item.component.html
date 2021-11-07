@@ -1,5 +1,8 @@
-<div>
   <a [routerLink]="['/', post.category.id, post.slug]">
-  {{post.title}}
+    <img src="/assets/thumbs/{{ post.category.id }}/{{ post.slug }}.jpg"/>
+    <div class="category">{{ post.category.title }}</div>
+    <div class="post-title">
+      {{ post.title }}<br />
+      <small>{{ post.date | date:"longDate" }}</small>
+    </div>
   </a>
-</div>

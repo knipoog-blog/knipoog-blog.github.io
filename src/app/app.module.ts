@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import {LOCALE_ID, NgModule} from "@angular/core";
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -9,6 +9,12 @@ import { PostComponent } from './pages/post/post.component';
 import { CategoriesComponent } from './components/categories/categories.component';
 import { PostItemComponent } from './components/post-item/post-item.component';
 import {HttpClientModule} from "@angular/common/http";
+import { PageHeaderComponent } from './components/page-header/page-header.component';
+import {CommonModule} from "@angular/common";
+import { registerLocaleData } from '@angular/common';
+import localeNl from '@angular/common/locales/nl';
+import { PostListComponent } from './components/post-list/post-list.component';
+registerLocaleData(localeNl);
 
 @NgModule({
   declarations: [
@@ -17,14 +23,17 @@ import {HttpClientModule} from "@angular/common/http";
     CategoryComponent,
     PostComponent,
     CategoriesComponent,
-    PostItemComponent
+    PostItemComponent,
+    PageHeaderComponent,
+    PostListComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
     AppRoutingModule,
     HttpClientModule,
+    CommonModule,
   ],
-  providers: [],
+  providers: [{provide: LOCALE_ID, useValue: 'nl' }],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

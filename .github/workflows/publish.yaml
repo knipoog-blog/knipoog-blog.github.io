@@ -16,7 +16,7 @@ jobs:
       - name: Install dependencies
         run: yarn  install
       - name: Build
-        run: yarn build
+        run: yarn prerender
       - name: Archive build
         if: success()
         uses: actions/upload-artifact@v1

@@ -1,3 +1,4 @@
+/schoolblog/projectweek-kunst-in-het-dorp
 /schoolblog/juf-mieke-gaat-met-pensioen-wat-gaan-we
 /schoolblog/onze-leerlingen-van-de-zesde-klas-zijn
 /schoolblog/onze-zesdeklassers-nemen-afscheid-van
@@ -33,6 +34,11 @@
 /kc1/sinterklaas
 /kc1/projectweek-heksen
 /kc2/kerst-in-onze-klas
+/kc3/kunst
+/kc3/hieperdepiep-hoera-diya
+/kc3/griezelen
+/kc3/hello-herfst
+/kc3/huisdieren
 /kc3/mijn-lichaam-en-zintuigen
 /kc3/bonnie-en-rijmie-zijn-er-weer
 /kc3/hieperdepiep-hoera-voor-anouk
@@ -54,6 +60,9 @@
 /kc3/happy-birthday-leonie
 /kc3/oh-baby
 /km/griezelen-halloween
+/lc1/onze-uitstap-tijdens-de-kunstweek-de
+/lc1/herfstknutsels
+/lc1/we-gingen-de-herfst-ontdekken-in-het
 /lc1/een-fantastische-dag-om-af-te-sluiten
 /lc1/gelukkige-verjaardag-louise
 /lc1/we-leerden-over-groenten-en-we-vonden
@@ -105,6 +114,12 @@
 /lm1/sint-op-school
 /lm1/rekenen-met-mab-blokjes-leuk
 /lm1/halloween-in-de-klas
+/lc3a/verderzetting-van-de-kunstweek
+/lc3a/eerste-dag-van-onze-kunstweek
+/lc3a/talentenarchipel_26
+/lc3a/verjaardag-khadija
+/lc3a/uitgenodigd-bij-fen-voor-werelddierendag
+/lc3a/talentenarchipel
 /lc3a/wk-wielrennen-door-ons-dorp
 /lc3a/biotopen-in-de-schoolbuurt
 /lc3a/receptie-voor-de-eerste-communie
@@ -123,8 +138,6 @@
 /lc3a/electrodag-op-vraag-van-de
 /lc3a/hoekenwerk-over-ziek-en-gezond
 /lc3a/vastenvoettocht
-/lc3a/sportdag
-/lc3a/dag-van-de-directeur
 /lc3b/start-talentenarchipel
 /lc3b/onze-klas
 /lc4a/afscheid-van-asha
@@ -150,6 +163,9 @@
 /lc4a/de-week-voor-de-kerstvakantie
 /lc4a/tekeningen-en-wensen-voor-het-uz
 /lc4a/sint-en-piet-in-de-vierde-klas
+/lc4b/druk-druk-druk
+/lc4b/feest-voor-tist
+/lc4b/goede-vaart
 /lc4b/jarig-zijn-is-fijn
 /lc4b/hip-hip-hoera-voor-grace
 /lc4b/september-de-eerste-jarige
@@ -174,6 +190,9 @@
 /lc4b/alixe-viert-feest
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/kunstzinnige-uitstap-naar-leuven
+/lc5a/verkiezingen-leerlingenraad
+/lc5a/onze-eerste-uitstap-is-een-feit-we
 /lc5a/programmeren-maar-we-gingen-aan-de-slag
 /lc5a/buitenles-wiskunde-inhoud-meten
 /lc5a/toost-op-het-nieuwe-schooljaar
@@ -195,6 +214,9 @@
 /lc5a/het-heksenproject-kan-beginnen
 /lc5a/dag-van-de-jeugdbeweging
 /lc5a/werken-met-klei
+/lc5b/magritte
+/lc5b/projectweek-kunst
+/lc5b/uitstap-leuven
 /lc5b/programmeren-met-microbits
 /lc5b/5b-ging-10km-op-stap-voor-het-goede
 /lc5b/op-stap-naar-hofstade-hoogteparcours-en
@@ -213,6 +235,8 @@
 /lc5b/heksenknutsels
 /lc5b/dag-van-de-jeugdbeweging
 /lc5b/kastelen-maken-met-klei
+/lc6a/we-staken-enkele-activiteiten-in-elkaar
+/lc6a/100-jaar-wk
 /lc6a/zelf-of-burenportret-geinspireerd-door
 /lc6a/lasershooten-met-6a-en-6b
 /lc6a/vaderdag

@@ -4,6 +4,7 @@ const FeedParser = require('feedparser');
 const sanitizeHtml = require('sanitize-html');
 const linkscrape = require('linkscrape');
 const http = require('http');
+const https = require('https');
 const path = require('path');
 const sharp = require('sharp');
 const queue = require('queue');
@@ -77,7 +78,8 @@ const createThumbnailForPost = (post, site) => {
                 .resize(300, 300)
                 .jpeg();
 
-        http.get(post.images[0].replace('https:', 'http:'), function (response) {
+        const url = post.images[0];
+        (url.startsWith("https") ? https : http).get(url, function (response) {
             response.on('error', (err) => {
                 console.error(err);
                 throw err;
@@ -113,7 +115,12 @@ const processPost = (post, site) => {
             post.summary = sanitize(post.summary);
             post.images = links
                 .map(link => link.href)
-                .filter(link => link.toLowerCase().endsWith("png") || link.toLowerCase().endsWith("jpg") || link.toLowerCase().endsWith("jpeg"));
+                .filter(link =>
+                  link.toLowerCase().endsWith("png") ||
+                  link.toLowerCase().endsWith("jpg") ||
+                  link.toLowerCase().includes("googleusercontent.com/img") ||
+                  link.toLowerCase().endsWith("jpeg")
+                );
             if (post.images.length === 0) {
                 console.warn(`[${site.id}/${post.slug}] Skipping, no images found`);
                 resolve(null);

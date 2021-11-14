@@ -15,7 +15,4 @@ export interface Post {
     title: string;
   }
   images: string[];
-  image: {
-    url: string;
-  }
 }

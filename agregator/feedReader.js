@@ -153,9 +153,14 @@ const readFeed = (site) => {
         })
         .then(posts => posts
             .filter(post => !!post)
-            .map(post => Object.assign({}, post, {
-            category: {id, title},
-        })))
+            .map(post => ({
+              title: post.title,
+              summary: post.summary,
+              date: post.date,
+              slug: post.slug,
+              category: {id, title},
+              images: post.images,
+            })))
       .then(posts => {
         fs.writeFileSync(fileName, JSON.stringify(posts));
         return posts;

@@ -140,6 +140,9 @@
 /lc3a/vastenvoettocht
 /lc3b/start-talentenarchipel
 /lc3b/onze-klas
+/lc4a/drukdrukdruk
+/lc4a/naar-de-jaarmarkt
+/lc4a/hiep-hiep-hoera-voor-lennert
 /lc4a/afscheid-van-asha
 /lc4a/kunst-in-de-knipoog
 /lc4a/enkele-proefjes-bij-het-thema
@@ -161,8 +164,6 @@
 /lc4a/jarigen-spreekbeurten-soep
 /lc4a/witloof
 /lc4a/de-week-voor-de-kerstvakantie
-/lc4a/tekeningen-en-wensen-voor-het-uz
-/lc4a/sint-en-piet-in-de-vierde-klas
 /lc4b/druk-druk-druk
 /lc4b/feest-voor-tist
 /lc4b/goede-vaart

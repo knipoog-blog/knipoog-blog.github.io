@@ -191,6 +191,9 @@
 /lc4b/alixe-viert-feest
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/oorlog-is-geen-spelletje
+/lc5a/bijna-levende-vogels
+/lc5a/loopgraafvoeten-wij-bedachten
 /lc5a/kunstzinnige-uitstap-naar-leuven
 /lc5a/verkiezingen-leerlingenraad
 /lc5a/onze-eerste-uitstap-is-een-feit-we
@@ -213,8 +216,6 @@
 /lc5a/boekenmarkt
 /lc5a/heksenhoekenwerk
 /lc5a/het-heksenproject-kan-beginnen
-/lc5a/dag-van-de-jeugdbeweging
-/lc5a/werken-met-klei
 /lc5b/magritte
 /lc5b/projectweek-kunst
 /lc5b/uitstap-leuven

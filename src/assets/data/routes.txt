@@ -34,6 +34,8 @@
 /kc1/sinterklaas
 /kc1/projectweek-heksen
 /kc2/kerst-in-onze-klas
+/kc3/sinterklaaskapoentje
+/kc3/tanden
 /kc3/kunst
 /kc3/hieperdepiep-hoera-diya
 /kc3/griezelen
@@ -57,8 +59,6 @@
 /kc3/kip-en-ei
 /kc3/feestweek-voor-3-jarige-kapoenen
 /kc3/thema-planten-en-zaaien
-/kc3/happy-birthday-leonie
-/kc3/oh-baby
 /km/griezelen-halloween
 /lc1/onze-uitstap-tijdens-de-kunstweek-de
 /lc1/herfstknutsels

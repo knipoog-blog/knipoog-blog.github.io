@@ -191,6 +191,7 @@
 /lc4b/alixe-viert-feest
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/kerstbomen-made-in-5a
 /lc5a/oorlog-is-geen-spelletje
 /lc5a/bijna-levende-vogels
 /lc5a/loopgraafvoeten-wij-bedachten
@@ -215,7 +216,7 @@
 /lc5a/sinterklaas-en-zwarte-piet
 /lc5a/boekenmarkt
 /lc5a/heksenhoekenwerk
-/lc5a/het-heksenproject-kan-beginnen
+/lc5b/kerstbomen-timmeren
 /lc5b/magritte
 /lc5b/projectweek-kunst
 /lc5b/uitstap-leuven

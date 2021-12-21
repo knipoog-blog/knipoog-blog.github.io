@@ -216,6 +216,7 @@
 /lc5a/sinterklaas-en-zwarte-piet
 /lc5a/boekenmarkt
 /lc5a/heksenhoekenwerk
+/lc5b/vierkante-meter
 /lc5b/kerstbomen-timmeren
 /lc5b/magritte
 /lc5b/projectweek-kunst

@@ -164,6 +164,11 @@
 /lc4a/jarigen-spreekbeurten-soep
 /lc4a/witloof
 /lc4a/de-week-voor-de-kerstvakantie
+/lc4b/happy-birthday
+/lc4b/kerstknutsels
+/lc4b/dieren-in-nood-in-de-franse-les
+/lc4b/sinterklaas-en-pieterbaas
+/lc4b/kunst-en-vliegwerk
 /lc4b/druk-druk-druk
 /lc4b/feest-voor-tist
 /lc4b/goede-vaart
@@ -184,11 +189,6 @@
 /lc4b/carnaval
 /lc4b/gemondmaskerd-feest
 /lc4b/het-witte-goud
-/lc4b/feestbeest
-/lc4b/de-provincies-oefenen
-/lc4b/ella-viert-feest
-/lc4b/mathis-werd-een-jaartje-ouder
-/lc4b/alixe-viert-feest
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/kerstbomen-made-in-5a

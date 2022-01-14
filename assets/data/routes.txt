@@ -60,6 +60,7 @@
 /kc3/feestweek-voor-3-jarige-kapoenen
 /kc3/thema-planten-en-zaaien
 /km/griezelen-halloween
+/lc1/een-hele-gelukkige-verjaardag-laiza-we
 /lc1/onze-uitstap-tijdens-de-kunstweek-de
 /lc1/herfstknutsels
 /lc1/we-gingen-de-herfst-ontdekken-in-het
@@ -84,7 +85,6 @@
 /lc1/hip-hip-hip-hoera-voor-ons-allerliefste
 /lc1/de-stoet-ging-niet-door-dit-jaar-maar
 /lc1/we-werkten-tijdens-gedichtendag-een
-/lc1/we-maakten-met-onze-klas-een
 /lc2/toon-je-sportclub
 /lc2/wie-doet-er-mee-met-ons
 /lc2/welkom-in-onze-klas-maak-kennis-met
@@ -164,6 +164,7 @@
 /lc4a/jarigen-spreekbeurten-soep
 /lc4a/witloof
 /lc4a/de-week-voor-de-kerstvakantie
+/lc4b/modeshow-de-tijd-van-toen
 /lc4b/happy-birthday
 /lc4b/kerstknutsels
 /lc4b/dieren-in-nood-in-de-franse-les
@@ -188,7 +189,6 @@
 /lc4b/happy-birthday-zita
 /lc4b/carnaval
 /lc4b/gemondmaskerd-feest
-/lc4b/het-witte-goud
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/kerstbomen-made-in-5a

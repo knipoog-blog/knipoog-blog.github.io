@@ -164,6 +164,7 @@
 /lc4a/onze-paaskip-hoera-voor-lisa-afscheid
 /lc4a/zwerfvuilactie-proefjes-thema-het-weer
 /lc4a/jarigen-spreekbeurten-soep
+/lc4b/de-provincies-oefenen
 /lc4b/modeshow-de-tijd-van-toen
 /lc4b/happy-birthday
 /lc4b/kerstknutsels
@@ -188,7 +189,6 @@
 /lc4b/meetdag
 /lc4b/happy-birthday-zita
 /lc4b/carnaval
-/lc4b/gemondmaskerd-feest
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/kerstbomen-made-in-5a

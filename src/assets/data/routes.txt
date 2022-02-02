@@ -34,6 +34,10 @@
 /kc1/sinterklaas
 /kc1/projectweek-heksen
 /kc2/kerst-in-onze-klas
+/kc3/gedichtenwandeling
+/kc3/mooi-makers
+/kc3/ruimte
+/kc3/kerst
 /kc3/sinterklaaskapoentje
 /kc3/tanden
 /kc3/kunst
@@ -55,10 +59,6 @@
 /kc3/sponsortocht
 /kc3/lang-zullen-ze-leven
 /kc3/moederdag
-/kc3/marie-6-jaar
-/kc3/kip-en-ei
-/kc3/feestweek-voor-3-jarige-kapoenen
-/kc3/thema-planten-en-zaaien
 /km/griezelen-halloween
 /lc1/een-hele-gelukkige-verjaardag-laiza-we
 /lc1/onze-uitstap-tijdens-de-kunstweek-de

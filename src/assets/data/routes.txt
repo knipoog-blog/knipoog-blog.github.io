@@ -62,6 +62,7 @@
 /kc3/lang-zullen-ze-leven
 /kc3/moederdag
 /km/griezelen-halloween
+/lc1/senne-vanroy-was-jarig-en-ze-hadden
 /lc1/een-hele-gelukkige-verjaardag-laiza-we
 /lc1/onze-uitstap-tijdens-de-kunstweek-de
 /lc1/herfstknutsels
@@ -86,7 +87,6 @@
 /lc1/wij-deden-mee-met-de-meetdag-en-voerden
 /lc1/hip-hip-hip-hoera-voor-ons-allerliefste
 /lc1/de-stoet-ging-niet-door-dit-jaar-maar
-/lc1/we-werkten-tijdens-gedichtendag-een
 /lc2/toon-je-sportclub
 /lc2/wie-doet-er-mee-met-ons
 /lc2/welkom-in-onze-klas-maak-kennis-met

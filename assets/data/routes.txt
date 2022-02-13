@@ -36,6 +36,9 @@
 /kc1/sinterklaas
 /kc1/projectweek-heksen
 /kc2/kerst-in-onze-klas
+/kc3/restaurant
+/kc3/dries-6-jaar
+/kc3/happy-birthday-louis
 /kc3/gedichtenwandeling
 /kc3/mooi-makers
 /kc3/ruimte
@@ -58,9 +61,6 @@
 /kc3/goooo-rode-duivels
 /kc3/thema-beroepen
 /kc3/thema-verkeer
-/kc3/sponsortocht
-/kc3/lang-zullen-ze-leven
-/kc3/moederdag
 /km/griezelen-halloween
 /lc1/senne-vanroy-was-jarig-en-ze-hadden
 /lc1/een-hele-gelukkige-verjaardag-laiza-we

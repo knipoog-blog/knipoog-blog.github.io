@@ -194,6 +194,9 @@
 /lc4b/carnaval
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/hoe-werken-tandwielen-ahhhhhh
+/lc5a/onze-robots
+/lc5a/wij-bouwden-de-brug-van-leonardo-da
 /lc5a/kerstbomen-made-in-5a
 /lc5a/oorlog-is-geen-spelletje
 /lc5a/bijna-levende-vogels
@@ -216,9 +219,6 @@
 /lc5a/de-knipoog-houdt-skipiste-open-voor-5a
 /lc5a/vuur-een-raket-af
 /lc5a/sfeerlichtjes-maken
-/lc5a/sinterklaas-en-zwarte-piet
-/lc5a/boekenmarkt
-/lc5a/heksenhoekenwerk
 /lc5b/vierkante-meter
 /lc5b/kerstbomen-timmeren
 /lc5b/magritte

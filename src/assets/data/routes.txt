@@ -63,6 +63,7 @@
 /kc3/thema-beroepen
 /kc3/thema-verkeer
 /km/griezelen-halloween
+/lc1/het-was-weer-een-zalige-carnavalsweek
 /lc1/wat-hebben-we-weer-goed-gevierd-hip-hip
 /lc1/senne-vanroy-was-jarig-en-ze-hadden
 /lc1/een-hele-gelukkige-verjaardag-laiza-we
@@ -87,7 +88,6 @@
 /lc1/hip-hip-hoera-voor-onze-isaac-onze
 /lc1/ons-olivia-was-jarig-en-we-hebben
 /lc1/wij-deden-mee-met-de-meetdag-en-voerden
-/lc1/hip-hip-hip-hoera-voor-ons-allerliefste
 /lc2/toon-je-sportclub
 /lc2/wie-doet-er-mee-met-ons
 /lc2/welkom-in-onze-klas-maak-kennis-met

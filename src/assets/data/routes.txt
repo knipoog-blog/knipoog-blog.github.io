@@ -37,6 +37,9 @@
 /kc1/sinterklaas
 /kc1/projectweek-heksen
 /kc2/kerst-in-onze-klas
+/kc3/carnaval
+/kc3/dinoooooo
+/kc3/hip-hip-hoera-voor-solace-en-virginia
 /kc3/restaurant
 /kc3/dries-6-jaar
 /kc3/happy-birthday-louis
@@ -59,9 +62,6 @@
 /kc3/laatste-dagen
 /kc3/hipperdepiep-hoera-jarne-olivia-bell-en
 /kc3/afzwaai-3de-kleuterklas
-/kc3/goooo-rode-duivels
-/kc3/thema-beroepen
-/kc3/thema-verkeer
 /km/griezelen-halloween
 /lc1/het-was-weer-een-zalige-carnavalsweek
 /lc1/wat-hebben-we-weer-goed-gevierd-hip-hip

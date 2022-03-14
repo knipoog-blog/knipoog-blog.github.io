@@ -64,6 +64,7 @@
 /kc3/hipperdepiep-hoera-jarne-olivia-bell-en
 /kc3/afzwaai-3de-kleuterklas
 /km/griezelen-halloween
+/lc1/leuk-zeg-in-pyjama-naar-school-eerst
 /lc1/het-was-weer-een-zalige-carnavalsweek
 /lc1/wat-hebben-we-weer-goed-gevierd-hip-hip
 /lc1/senne-vanroy-was-jarig-en-ze-hadden
@@ -88,7 +89,6 @@
 /lc1/even-rusten-in-pyjama-om-daarna-snel-in
 /lc1/hip-hip-hoera-voor-onze-isaac-onze
 /lc1/ons-olivia-was-jarig-en-we-hebben
-/lc1/wij-deden-mee-met-de-meetdag-en-voerden
 /lc2/toon-je-sportclub
 /lc2/wie-doet-er-mee-met-ons
 /lc2/welkom-in-onze-klas-maak-kennis-met

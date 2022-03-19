@@ -221,6 +221,7 @@
 /lc5a/de-knipoog-houdt-skipiste-open-voor-5a
 /lc5a/vuur-een-raket-af
 /lc5a/sfeerlichtjes-maken
+/lc5b/uitstap-technopolis
 /lc5b/vierkante-meter
 /lc5b/kerstbomen-timmeren
 /lc5b/magritte
@@ -243,7 +244,10 @@
 /lc5b/blog-post
 /lc5b/heksenknutsels
 /lc5b/dag-van-de-jeugdbeweging
-/lc5b/kastelen-maken-met-klei
+/lc6a/the-masked-class
+/lc6a/romeo-en-julia
+/lc6a/bezoek-aan-het-red-star-line-museum-en_17
+/lc6a/bezoek-aan-het-red-star-line-museum-en
 /lc6a/the-iron-man
 /lc6a/in-de-ban-van-de-onomatopee
 /lc6a/bezoek-aan-de-kazerne-dossin
@@ -264,8 +268,6 @@
 /lc6a/schepenen-2020
 /lc6a/blog-post_24
 /lc6a/sport-met-het-zesde-leerjaar
-/lc6a/we-starten-ons-thema-rond-woii-met-een
-/lc6a/kunst-la-jim-dine
 /lc6b/sportdag-deel-2
 /lc6b/uitstap-hofstade
 /lc6b/sportdag

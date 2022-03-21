@@ -118,6 +118,12 @@
 /lm1/sint-op-school
 /lm1/rekenen-met-mab-blokjes-leuk
 /lm1/halloween-in-de-klas
+/lc3a/wij-houden-onze-buurt-proper
+/lc3a/carnaval
+/lc3a/thema-straffe-kost-uitvinders-in-wording
+/lc3a/stappenplan-uitvoeren
+/lc3a/een-stappenplan-voor-taal
+/lc3a/thema-straffe-kost-demonteren-en
 /lc3a/gedichtenwandeling-met-leuke
 /lc3a/hoekenwerk-thema-noodoproep
 /lc3a/verjaardag-theo
@@ -136,12 +142,6 @@
 /lc3a/uitgenodigd-bij-fen-voor-werelddierendag
 /lc3a/talentenarchipel
 /lc3a/wk-wielrennen-door-ons-dorp
-/lc3a/biotopen-in-de-schoolbuurt
-/lc3a/receptie-voor-de-eerste-communie
-/lc3a/hip-hip-hoera-voor-lise
-/lc3a/workshop-dans-en-verhalen-vertellen
-/lc3a/dorpswandeling-met-luc
-/lc3a/klei-workshop-met-een-echte
 /lc3b/start-talentenarchipel
 /lc3b/onze-klas
 /lc4a/james-ensor
@@ -196,6 +196,8 @@
 /lc4b/happy-birthday-zita
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/clownkazoonet
+/lc5a/uitstap-technopolis
 /lc5a/hoe-werken-tandwielen-ahhhhhh
 /lc5a/onze-robots
 /lc5a/wij-bouwden-de-brug-van-leonardo-da
@@ -219,8 +221,6 @@
 /lc5a/brug-bouwen-la-da-vinci
 /lc5a/carnaval-in-de-klas
 /lc5a/de-knipoog-houdt-skipiste-open-voor-5a
-/lc5a/vuur-een-raket-af
-/lc5a/sfeerlichtjes-maken
 /lc5b/uitstap-technopolis
 /lc5b/vierkante-meter
 /lc5b/kerstbomen-timmeren

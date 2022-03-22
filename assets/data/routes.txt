@@ -38,6 +38,8 @@
 /kc1/sinterklaas
 /kc1/projectweek-heksen
 /kc2/kerst-in-onze-klas
+/kc3/gelukkige-verjaardag-charlotte
+/kc3/thema-baby
 /kc3/carnaval
 /kc3/dinoooooo
 /kc3/hip-hip-hoera-voor-solace-en-virginia
@@ -61,8 +63,6 @@
 /kc3/whoehoe-tis-weer-school
 /kc3/knipoog-rock
 /kc3/laatste-dagen
-/kc3/hipperdepiep-hoera-jarne-olivia-bell-en
-/kc3/afzwaai-3de-kleuterklas
 /km/griezelen-halloween
 /lc1/leuk-zeg-in-pyjama-naar-school-eerst
 /lc1/het-was-weer-een-zalige-carnavalsweek
@@ -196,6 +196,7 @@
 /lc4b/happy-birthday-zita
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/kraantjeswater-doodnormaal-we-ontdekten
 /lc5a/clownkazoonet
 /lc5a/uitstap-technopolis
 /lc5a/hoe-werken-tandwielen-ahhhhhh
@@ -220,7 +221,7 @@
 /lc5a/robotfabriek
 /lc5a/brug-bouwen-la-da-vinci
 /lc5a/carnaval-in-de-klas
-/lc5a/de-knipoog-houdt-skipiste-open-voor-5a
+/lc5b/wo-thema-water
 /lc5b/uitstap-technopolis
 /lc5b/vierkante-meter
 /lc5b/kerstbomen-timmeren
@@ -243,7 +244,6 @@
 /lc5b/praatbox-met-meester-eric-eerste
 /lc5b/blog-post
 /lc5b/heksenknutsels
-/lc5b/dag-van-de-jeugdbeweging
 /lc6a/the-masked-class
 /lc6a/romeo-en-julia
 /lc6a/bezoek-aan-het-red-star-line-museum-en_17

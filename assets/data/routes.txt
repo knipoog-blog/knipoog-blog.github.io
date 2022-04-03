@@ -64,6 +64,8 @@
 /kc3/knipoog-rock
 /kc3/laatste-dagen
 /km/griezelen-halloween
+/lc1/de-laatste-dag-voor-de-paasvakantie
+/lc1/de-kinderen-van-het-eerste-leerjaar
 /lc1/leuk-zeg-in-pyjama-naar-school-eerst
 /lc1/het-was-weer-een-zalige-carnavalsweek
 /lc1/wat-hebben-we-weer-goed-gevierd-hip-hip
@@ -87,8 +89,6 @@
 /lc1/tijdens-de-week-van-het-geld-gingen-we
 /lc1/tijdens-de-meetdag-werkten-we-vooral
 /lc1/even-rusten-in-pyjama-om-daarna-snel-in
-/lc1/hip-hip-hoera-voor-onze-isaac-onze
-/lc1/ons-olivia-was-jarig-en-we-hebben
 /lc2/toon-je-sportclub
 /lc2/wie-doet-er-mee-met-ons
 /lc2/welkom-in-onze-klas-maak-kennis-met

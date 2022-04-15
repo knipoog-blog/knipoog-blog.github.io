@@ -38,6 +38,9 @@
 /kc1/sinterklaas
 /kc1/projectweek-heksen
 /kc2/kerst-in-onze-klas
+/kc3/thema-pasen
+/kc3/wij-lopen-voor-het-goede-doel
+/kc3/feest-voor-onze-6-jarige-oona-lucie-en
 /kc3/gelukkige-verjaardag-charlotte
 /kc3/thema-baby
 /kc3/carnaval
@@ -60,9 +63,6 @@
 /kc3/mijn-lichaam-en-zintuigen
 /kc3/bonnie-en-rijmie-zijn-er-weer
 /kc3/hieperdepiep-hoera-voor-anouk
-/kc3/whoehoe-tis-weer-school
-/kc3/knipoog-rock
-/kc3/laatste-dagen
 /km/griezelen-halloween
 /lc1/de-laatste-dag-voor-de-paasvakantie
 /lc1/de-kinderen-van-het-eerste-leerjaar

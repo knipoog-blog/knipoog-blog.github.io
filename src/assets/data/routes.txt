@@ -173,6 +173,8 @@
 /lc4a/een-fijne-moederdag-gewenst
 /lc4a/sportdag
 /lc4a/de-vikingen
+/lc4b/terug-in-de-tijd
+/lc4b/smiske
 /lc4b/happy-birthday-adria
 /lc4b/elektriciteit
 /lc4b/la-musique
@@ -196,8 +198,6 @@
 /lc4b/peter-is-onze-vakantiejarige
 /lc4b/proficiat-owen
 /lc4b/marit-is-jarig
-/lc4b/marie-is-jarig-en-dat-vieren-wij
-/lc4b/vastenvoettocht
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/staptocht-10-km

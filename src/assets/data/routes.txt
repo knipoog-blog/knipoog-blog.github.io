@@ -148,6 +148,8 @@
 /lc3b/groepslezen
 /lc3b/start-talentenarchipel
 /lc3b/onze-klas
+/lc4a/vrolijk-pasen
+/lc4a/maarten-jagermeester-op-bezoek
 /lc4a/nog-een-foto-van-carnaval
 /lc4a/pixelart
 /lc4a/kunnen-wij-een-lampje-laten-branden-in
@@ -171,8 +173,6 @@
 /lc4a/hieperdepiep-voor-onze-jarigen
 /lc4a/de-sponsortocht
 /lc4a/een-fijne-moederdag-gewenst
-/lc4a/sportdag
-/lc4a/de-vikingen
 /lc4b/terug-in-de-tijd
 /lc4b/smiske
 /lc4b/happy-birthday-adria

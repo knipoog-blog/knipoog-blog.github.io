@@ -148,6 +148,8 @@
 /lc3b/groepslezen
 /lc3b/start-talentenarchipel
 /lc3b/onze-klas
+/lc4a/wij-zijn-geslaagd-voor-ons
+/lc4a/hiep-hiep-hoera-voor-jasper
 /lc4a/de-tijd-van-toen-erfgoeddag-in-het
 /lc4a/vrolijk-pasen
 /lc4a/maarten-jagermeester-op-bezoek
@@ -171,8 +173,6 @@
 /lc4a/wat-hebben-wij-genoten-van-de-koers
 /lc4a/onze-jarigen-die-we-vierden-in-de-maand
 /lc4a/uitstap-naar-mechelen
-/lc4a/hieperdepiep-voor-onze-jarigen
-/lc4a/de-sponsortocht
 /lc4b/terug-in-de-tijd
 /lc4b/smiske
 /lc4b/happy-birthday-adria

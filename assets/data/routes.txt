@@ -1,3 +1,4 @@
+/schoolblog/slotshow-variete-project-op-de-mart
 /schoolblog/onze-school-neemt-deel-aan-erfgoeddag
 /schoolblog/joepie-carnaval
 /schoolblog/dansen-op-dikke-truiendag
@@ -21,7 +22,6 @@
 /schoolblog/onze-leerlingenraad-is-voor-de-eerste
 /schoolblog/5a-en-lm3-ontwierpen-een-verkeersbord
 /schoolblog/oefening-baart-kunst
-/schoolblog/de-veldloop-was-weer-een-succes-dank-je
 /sport/g-sportschool-voor-het-6de-leerjaar
 /sport/veldloop-2020
 /sport/korfbalinitiatie-putse-kc
@@ -64,6 +64,7 @@
 /kc3/bonnie-en-rijmie-zijn-er-weer
 /kc3/hieperdepiep-hoera-voor-anouk
 /km/griezelen-halloween
+/lc1/voor-onze-jarige-cas
 /lc1/onze-brent-heeft-met-volle-teugen
 /lc1/de-laatste-dag-voor-de-paasvakantie
 /lc1/de-kinderen-van-het-eerste-leerjaar
@@ -88,7 +89,6 @@
 /lc1/onze-klas-maakte-een-lentewandeling-en
 /lc1/onze-neo-vond-het-helemaal-niet-erg-om
 /lc1/tijdens-de-week-van-het-geld-gingen-we
-/lc1/tijdens-de-meetdag-werkten-we-vooral
 /lc2/toon-je-sportclub
 /lc2/wie-doet-er-mee-met-ons
 /lc2/welkom-in-onze-klas-maak-kennis-met

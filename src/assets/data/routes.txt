@@ -173,6 +173,7 @@
 /lc4a/wat-hebben-wij-genoten-van-de-koers
 /lc4a/onze-jarigen-die-we-vierden-in-de-maand
 /lc4a/uitstap-naar-mechelen
+/lc4b/tien
 /lc4b/even-serieus-nu-net-als-vroeger
 /lc4b/hipperdepip-lone
 /lc4b/voetgangersexamen-iedereen-geslaagd
@@ -197,7 +198,6 @@
 /lc4b/jarig-zijn-is-fijn
 /lc4b/hip-hip-hoera-voor-grace
 /lc4b/september-de-eerste-jarige
-/lc4b/welkom-aan-boord
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/staptocht-10-km

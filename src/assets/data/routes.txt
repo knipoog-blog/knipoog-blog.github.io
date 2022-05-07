@@ -200,6 +200,7 @@
 /lc4b/september-de-eerste-jarige
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/mooimakers
 /lc5a/staptocht-10-km
 /lc5a/kraantjeswater-doodnormaal-we-ontdekten
 /lc5a/clownkazoonet
@@ -224,7 +225,6 @@
 /lc5a/uitstap-vrijbroekpark
 /lc5a/pyjamadag
 /lc5a/robotfabriek
-/lc5a/brug-bouwen-la-da-vinci
 /lc5b/auteurslezing-luc-descamps
 /lc5b/erfgoeddag
 /lc5b/wo-thema-water

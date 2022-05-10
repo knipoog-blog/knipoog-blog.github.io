@@ -38,6 +38,9 @@
 /kc1/sinterklaas
 /kc1/projectweek-heksen
 /kc2/kerst-in-onze-klas
+/kc3/mama-is-de-beste
+/kc3/lennert-6jaar
+/kc3/groene-vingers
 /kc3/thema-pasen
 /kc3/wij-lopen-voor-het-goede-doel
 /kc3/feest-voor-onze-6-jarige-oona-lucie-en
@@ -60,9 +63,6 @@
 /kc3/griezelen
 /kc3/hello-herfst
 /kc3/huisdieren
-/kc3/mijn-lichaam-en-zintuigen
-/kc3/bonnie-en-rijmie-zijn-er-weer
-/kc3/hieperdepiep-hoera-voor-anouk
 /km/griezelen-halloween
 /lc1/voor-onze-jarige-cas
 /lc1/onze-brent-heeft-met-volle-teugen
@@ -173,6 +173,8 @@
 /lc4a/wat-hebben-wij-genoten-van-de-koers
 /lc4a/onze-jarigen-die-we-vierden-in-de-maand
 /lc4a/uitstap-naar-mechelen
+/lc4b/moederdag
+/lc4b/sportdag
 /lc4b/tien
 /lc4b/even-serieus-nu-net-als-vroeger
 /lc4b/hipperdepip-lone
@@ -196,8 +198,6 @@
 /lc4b/feest-voor-tist
 /lc4b/goede-vaart
 /lc4b/jarig-zijn-is-fijn
-/lc4b/hip-hip-hoera-voor-grace
-/lc4b/september-de-eerste-jarige
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/mooimakers
@@ -248,6 +248,8 @@
 /lc5b/puzzelpret
 /lc5b/een-snoephuisje-voor-de-vogels-timmeren
 /lc5b/praatbox-met-meester-eric-eerste
+/lc6a/workshop-met-jelle-van-ignore-mess
+/lc6a/op-bezoek-in-een-middelbare-school
 /lc6a/the-masked-class
 /lc6a/romeo-en-julia
 /lc6a/bezoek-aan-het-red-star-line-museum-en_17
@@ -271,7 +273,6 @@
 /lc6a/hoe-studeer-jij
 /lc6a/schepenen-2020
 /lc6a/blog-post_24
-/lc6a/sport-met-het-zesde-leerjaar
 /lc6b/sportdag-deel-2
 /lc6b/uitstap-hofstade
 /lc6b/sportdag

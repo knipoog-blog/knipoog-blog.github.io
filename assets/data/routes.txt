@@ -64,6 +64,8 @@
 /kc3/hello-herfst
 /kc3/huisdieren
 /km/griezelen-halloween
+/lc1/onze-sportdag-was-superleuk-we-hebben
+/lc1/onze-senne-d-was-jarig-en-hij-was
 /lc1/voor-onze-jarige-cas
 /lc1/onze-brent-heeft-met-volle-teugen
 /lc1/de-laatste-dag-voor-de-paasvakantie
@@ -87,8 +89,6 @@
 /lc1/onze-moestuin-is-klaar-we-hebben-gemest
 /lc1/het-was-bar-koud-tijdens-ons-uurtje-op
 /lc1/onze-klas-maakte-een-lentewandeling-en
-/lc1/onze-neo-vond-het-helemaal-niet-erg-om
-/lc1/tijdens-de-week-van-het-geld-gingen-we
 /lc2/toon-je-sportclub
 /lc2/wie-doet-er-mee-met-ons
 /lc2/welkom-in-onze-klas-maak-kennis-met

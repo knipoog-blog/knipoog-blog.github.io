@@ -118,6 +118,10 @@
 /lm1/sint-op-school
 /lm1/rekenen-met-mab-blokjes-leuk
 /lm1/halloween-in-de-klas
+/lc3a/verjaardag-fen
+/lc3a/af-en-toe-wat-speeltijd-extra
+/lc3a/sportdag
+/lc3a/picknick-en-ontspanning-tussen-het
 /lc3a/verjaardag-karlijn
 /lc3a/verjaardag-finn
 /lc3a/bezoek-aan-het-recyclagepark-en
@@ -139,9 +143,6 @@
 /lc3a/verjaardag-axelle
 /lc3a/verjaardag-ciya
 /lc3a/bezoek-aan-de-jaarmarkt
-/lc3a/verderzetting-van-de-kunstweek
-/lc3a/eerste-dag-van-onze-kunstweek
-/lc3a/talentenarchipel_26
 /lc3b/carnaval-op-school
 /lc3b/uitvinders
 /lc3b/toneel-proefjes

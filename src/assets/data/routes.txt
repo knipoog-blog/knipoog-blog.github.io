@@ -201,6 +201,8 @@
 /lc4b/goede-vaart
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/onze-kunstwerken-van-de-franse
+/lc5a/sportdag
 /lc5a/mooimakers
 /lc5a/staptocht-10-km
 /lc5a/kraantjeswater-doodnormaal-we-ontdekten
@@ -224,8 +226,6 @@
 /lc5a/sportdag
 /lc5a/alles-op-wieltjes
 /lc5a/uitstap-vrijbroekpark
-/lc5a/pyjamadag
-/lc5a/robotfabriek
 /lc5b/sportdag
 /lc5b/auteurslezing-luc-descamps
 /lc5b/erfgoeddag

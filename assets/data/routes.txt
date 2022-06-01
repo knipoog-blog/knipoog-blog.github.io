@@ -38,6 +38,9 @@
 /kc1/sinterklaas
 /kc1/projectweek-heksen
 /kc2/kerst-in-onze-klas
+/kc3/onze-6de-klassers-lezen-voor
+/kc3/outdoor-en-psychomotoriek
+/kc3/proficiat-hanne-luna-en-zana-al-6-jaar
 /kc3/mama-is-de-beste
 /kc3/lennert-6jaar
 /kc3/groene-vingers
@@ -60,9 +63,6 @@
 /kc3/tanden
 /kc3/kunst
 /kc3/hieperdepiep-hoera-diya
-/kc3/griezelen
-/kc3/hello-herfst
-/kc3/huisdieren
 /km/griezelen-halloween
 /lc1/yandro-was-oprecht-enorm-gelukkig-met
 /lc1/onze-sportdag-was-superleuk-we-hebben

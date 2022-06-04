@@ -226,6 +226,7 @@
 /lc5a/sportdag
 /lc5a/alles-op-wieltjes
 /lc5a/uitstap-vrijbroekpark
+/lc5b/techno-trailer
 /lc5b/sportdag
 /lc5b/auteurslezing-luc-descamps
 /lc5b/erfgoeddag
@@ -248,7 +249,6 @@
 /lc5b/knutselen-robots-maken-van-papier
 /lc5b/thema-europa
 /lc5b/puzzelpret
-/lc5b/een-snoephuisje-voor-de-vogels-timmeren
 /lc6a/workshop-met-jelle-van-ignore-mess
 /lc6a/op-bezoek-in-een-middelbare-school
 /lc6a/the-masked-class

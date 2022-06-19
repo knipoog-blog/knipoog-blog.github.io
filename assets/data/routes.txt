@@ -201,6 +201,7 @@
 /lc4b/druk-druk-druk
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/fototrucage
 /lc5a/techno-trailer
 /lc5a/onze-kunstwerken-van-de-franse
 /lc5a/sportdag
@@ -225,7 +226,6 @@
 /lc5a/de-maan-nam-een-hap-uit-de-zon
 /lc5a/10-km-stappen-voor-het-goede-doel-5a
 /lc5a/sportdag
-/lc5a/alles-op-wieltjes
 /lc5b/techno-trailer
 /lc5b/sportdag
 /lc5b/auteurslezing-luc-descamps

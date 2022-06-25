@@ -118,6 +118,11 @@
 /lm1/sint-op-school
 /lm1/rekenen-met-mab-blokjes-leuk
 /lm1/halloween-in-de-klas
+/lc3a/buiten-schilderen
+/lc3a/ijsjes-van-het-schoolfeest
+/lc3a/talentenarchipel
+/lc3a/proefjes-met-de-zon_24
+/lc3a/verjaardag-sophia
 /lc3a/verjaardag-fen
 /lc3a/af-en-toe-wat-speeltijd-extra
 /lc3a/sportdag
@@ -138,11 +143,6 @@
 /lc3a/spelling-op-de-speelplaats
 /lc3a/levenslijn-in-opbouw
 /lc3a/verjaardag-rebeka
-/lc3a/verjaardag-ella
-/lc3a/onverwacht-bezoek-in-de-klas
-/lc3a/verjaardag-axelle
-/lc3a/verjaardag-ciya
-/lc3a/bezoek-aan-de-jaarmarkt
 /lc3b/carnaval-op-school
 /lc3b/uitvinders
 /lc3b/toneel-proefjes

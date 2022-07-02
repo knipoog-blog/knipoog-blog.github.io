@@ -226,6 +226,8 @@
 /lc5a/de-maan-nam-een-hap-uit-de-zon
 /lc5a/10-km-stappen-voor-het-goede-doel-5a
 /lc5a/sportdag
+/lc5b/fototrucage
+/lc5b/krijttekeningen-maken
 /lc5b/techno-trailer
 /lc5b/sportdag
 /lc5b/auteurslezing-luc-descamps
@@ -247,8 +249,6 @@
 /lc5b/een-brug-bouwen-naar-het-principe-van
 /lc5b/hoekenwerk-hefbomen
 /lc5b/knutselen-robots-maken-van-papier
-/lc5b/thema-europa
-/lc5b/puzzelpret
 /lc6a/workshop-met-jelle-van-ignore-mess
 /lc6a/op-bezoek-in-een-middelbare-school
 /lc6a/the-masked-class

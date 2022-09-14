@@ -174,6 +174,8 @@
 /lc4a/wat-hebben-wij-genoten-van-de-koers
 /lc4a/onze-jarigen-die-we-vierden-in-de-maand
 /lc4a/uitstap-naar-mechelen
+/lc4b/hip-hip-hipperdepip
+/lc4b/welkom-aan-boord-het-nieuwe-schooljaar
 /lc4b/nand-viert-zijn-verjaardag
 /lc4b/weer-een-jarige-in-4b
 /lc4b/beyza-is-jarig
@@ -197,8 +199,6 @@
 /lc4b/kerstknutsels
 /lc4b/dieren-in-nood-in-de-franse-les
 /lc4b/sinterklaas-en-pieterbaas
-/lc4b/kunst-en-vliegwerk
-/lc4b/druk-druk-druk
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/fototrucage

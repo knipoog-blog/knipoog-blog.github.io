@@ -226,6 +226,7 @@
 /lc5a/de-maan-nam-een-hap-uit-de-zon
 /lc5a/10-km-stappen-voor-het-goede-doel-5a
 /lc5a/sportdag
+/lc5b/welkom-in-het-vijfde-leerjaar
 /lc5b/fototrucage
 /lc5b/krijttekeningen-maken
 /lc5b/techno-trailer

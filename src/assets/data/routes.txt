@@ -226,6 +226,7 @@
 /lc5a/de-maan-nam-een-hap-uit-de-zon
 /lc5a/10-km-stappen-voor-het-goede-doel-5a
 /lc5a/sportdag
+/lc5b/hip-hip-hoera-jarig-in-september
 /lc5b/toon-je-sportclub
 /lc5b/welkom-in-het-vijfde-leerjaar
 /lc5b/fototrucage
@@ -249,7 +250,6 @@
 /lc5b/thema-groene-vingers
 /lc5b/knutselen-robots-deel-2
 /lc5b/een-brug-bouwen-naar-het-principe-van
-/lc5b/hoekenwerk-hefbomen
 /lc6a/workshop-met-jelle-van-ignore-mess
 /lc6a/op-bezoek-in-een-middelbare-school
 /lc6a/the-masked-class

@@ -64,6 +64,7 @@
 /kc3/kunst
 /kc3/hieperdepiep-hoera-diya
 /km/griezelen-halloween
+/lc1/we-leerden-over-de-verjaardagen-en
 /lc1/yandro-was-oprecht-enorm-gelukkig-met
 /lc1/onze-sportdag-was-superleuk-we-hebben
 /lc1/onze-senne-d-was-jarig-en-hij-was
@@ -88,7 +89,6 @@
 /lc1/onze-obe-was-jarig-en-we-hebben-veel
 /lc1/sportdag-op-school-hoe-fijn-dat-we
 /lc1/onze-moestuin-is-klaar-we-hebben-gemest
-/lc1/het-was-bar-koud-tijdens-ons-uurtje-op
 /lc2/toon-je-sportclub
 /lc2/wie-doet-er-mee-met-ons
 /lc2/welkom-in-onze-klas-maak-kennis-met

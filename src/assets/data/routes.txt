@@ -1,3 +1,5 @@
+/schoolblog/dankjewel-davidsfonds-voor-de-mooie
+/schoolblog/voorlezen-uit-een-boek-van
 /schoolblog/toon-je-sportclub
 /schoolblog/de-knipoog-viert-100-jaar-mart
 /schoolblog/outdoor-learning-opgestart-in-de-knipoog
@@ -20,8 +22,6 @@
 /schoolblog/enkele-gedichten-en-fotos-nav
 /schoolblog/de-klasschepenen-voor-de-leerlingenraad
 /schoolblog/project-heksen
-/schoolblog/constructief-aan-de-slag-tijdens-de
-/schoolblog/voorlezen-tijdens-de-middagspeeltijd
 /sport/g-sportschool-voor-het-6de-leerjaar
 /sport/veldloop-2020
 /sport/korfbalinitiatie-putse-kc

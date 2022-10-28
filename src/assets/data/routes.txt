@@ -174,6 +174,8 @@
 /lc4a/wat-hebben-wij-genoten-van-de-koers
 /lc4a/onze-jarigen-die-we-vierden-in-de-maand
 /lc4a/uitstap-naar-mechelen
+/lc4b/uitstap-antwerpen
+/lc4b/een-brug-over-de-ravijn
 /lc4b/goede-vaart
 /lc4b/lise-was-jarig
 /lc4b/hip-hip-hipperdepip
@@ -197,8 +199,6 @@
 /lc4b/ago-was-jarig-en-dat-vieren-wij
 /lc4b/de-provincies-oefenen
 /lc4b/modeshow-de-tijd-van-toen
-/lc4b/happy-birthday
-/lc4b/kerstknutsels
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/fototrucage
@@ -250,6 +250,9 @@
 /lc5b/thema-groene-vingers
 /lc5b/knutselen-robots-deel-2
 /lc5b/een-brug-bouwen-naar-het-principe-van
+/lc6a/huis-van-kina
+/lc6a/kazerne-dossin
+/lc6a/g-sport
 /lc6a/workshop-met-jelle-van-ignore-mess
 /lc6a/op-bezoek-in-een-middelbare-school
 /lc6a/the-masked-class
@@ -272,9 +275,6 @@
 /lc6a/blog-post
 /lc6a/op-weg-naar-het-secundair
 /lc6a/wo-van-pool-tot-pool
-/lc6a/hoe-studeer-jij
-/lc6a/schepenen-2020
-/lc6a/blog-post_24
 /lc6b/sportdag-deel-2
 /lc6b/uitstap-hofstade
 /lc6b/sportdag

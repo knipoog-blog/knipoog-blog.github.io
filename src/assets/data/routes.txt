@@ -201,6 +201,11 @@
 /lc4b/modeshow-de-tijd-van-toen
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/blog-post
+/lc5a/museum-voor-natuurwetenschappen
+/lc5a/kijk-eens-naar-ons-vogeltje
+/lc5a/meten-is-weten
+/lc5a/welkomstcocktail-5a
 /lc5a/fototrucage
 /lc5a/techno-trailer
 /lc5a/onze-kunstwerken-van-de-franse
@@ -221,11 +226,6 @@
 /lc5a/verkiezingen-leerlingenraad
 /lc5a/onze-eerste-uitstap-is-een-feit-we
 /lc5a/programmeren-maar-we-gingen-aan-de-slag
-/lc5a/buitenles-wiskunde-inhoud-meten
-/lc5a/toost-op-het-nieuwe-schooljaar
-/lc5a/de-maan-nam-een-hap-uit-de-zon
-/lc5a/10-km-stappen-voor-het-goede-doel-5a
-/lc5a/sportdag
 /lc5b/hip-hip-hoera-jarig-in-september
 /lc5b/toon-je-sportclub
 /lc5b/welkom-in-het-vijfde-leerjaar

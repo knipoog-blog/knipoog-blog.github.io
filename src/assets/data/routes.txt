@@ -149,6 +149,11 @@
 /lc3b/groepslezen
 /lc3b/start-talentenarchipel
 /lc3b/onze-klas
+/lc4a/een-halloween-rekenles
+/lc4a/op-uitstap-naar-het-plantin-moretus
+/lc4a/kijk-eens-naar-onze-ontwerpen-van
+/lc4a/wij-maken-een-bootje-met-elastiekmotor
+/lc4a/hiep-hiep-hoera-voor-eden-en-khadisja
 /lc4a/wij-zijn-geslaagd-voor-ons
 /lc4a/hiep-hiep-hoera-voor-jasper
 /lc4a/de-tijd-van-toen-erfgoeddag-in-het
@@ -169,11 +174,8 @@
 /lc4a/kunst-in-de-knipoog
 /lc4a/enkele-proefjes-bij-het-thema
 /lc4a/hiep-hiep-hoera-voor-lowie
-/lc4a/het-is-ons-gelukt-om-de-bootjes-met
-/lc4a/een-bootje-met-een-elastiekmotor
-/lc4a/wat-hebben-wij-genoten-van-de-koers
-/lc4a/onze-jarigen-die-we-vierden-in-de-maand
-/lc4a/uitstap-naar-mechelen
+/lc4b/olivia-verjaart
+/lc4b/griezelen
 /lc4b/uitstap-antwerpen
 /lc4b/een-brug-over-de-ravijn
 /lc4b/goede-vaart
@@ -197,8 +199,6 @@
 /lc4b/carnaval
 /lc4b/gekke-bekken-even-een-zot-tussendoortje
 /lc4b/ago-was-jarig-en-dat-vieren-wij
-/lc4b/de-provincies-oefenen
-/lc4b/modeshow-de-tijd-van-toen
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/blog-post

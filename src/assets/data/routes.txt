@@ -275,6 +275,12 @@
 /lc6a/blog-post
 /lc6a/op-weg-naar-het-secundair
 /lc6a/wo-van-pool-tot-pool
+/lc6b/dia-de-los-muertos-film-coco
+/lc6b/initiatie-g-sport
+/lc6b/bezoek-kazerne-dossin-te-mechelen
+/lc6b/medisch-schooltoezicht
+/lc6b/adem-vrij-proefjes-in-de-tuin
+/lc6b/nieuw-klaslokaal-spelnamiddag
 /lc6b/sportdag-deel-2
 /lc6b/uitstap-hofstade
 /lc6b/sportdag

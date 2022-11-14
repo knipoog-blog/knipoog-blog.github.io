@@ -1,3 +1,4 @@
+/schoolblog/hoe-fijn-en-leerrijk-is-dat-elke
 /schoolblog/dankjewel-davidsfonds-voor-de-mooie
 /schoolblog/voorlezen-uit-een-boek-van
 /schoolblog/toon-je-sportclub
@@ -21,7 +22,6 @@
 /schoolblog/dank-je-wel-aan-de-sympathisanten-die
 /schoolblog/enkele-gedichten-en-fotos-nav
 /schoolblog/de-klasschepenen-voor-de-leerlingenraad
-/schoolblog/project-heksen
 /sport/g-sportschool-voor-het-6de-leerjaar
 /sport/veldloop-2020
 /sport/korfbalinitiatie-putse-kc

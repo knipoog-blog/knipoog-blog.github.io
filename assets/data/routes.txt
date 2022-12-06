@@ -150,6 +150,7 @@
 /lc3b/groepslezen
 /lc3b/start-talentenarchipel
 /lc3b/onze-klas
+/lc4a/onze-jarigen-van-november-proficiat
 /lc4a/een-halloween-rekenles
 /lc4a/op-uitstap-naar-het-plantin-moretus
 /lc4a/kijk-eens-naar-onze-ontwerpen-van
@@ -174,7 +175,6 @@
 /lc4a/afscheid-van-asha
 /lc4a/kunst-in-de-knipoog
 /lc4a/enkele-proefjes-bij-het-thema
-/lc4a/hiep-hiep-hoera-voor-lowie
 /lc4b/olivia-verjaart
 /lc4b/griezelen
 /lc4b/uitstap-antwerpen

@@ -227,6 +227,7 @@
 /lc5a/verkiezingen-leerlingenraad
 /lc5a/onze-eerste-uitstap-is-een-feit-we
 /lc5a/programmeren-maar-we-gingen-aan-de-slag
+/lc5b/thema-de-eerste-wereldoorlog
 /lc5b/hip-hip-hoera-jarig-in-september
 /lc5b/toon-je-sportclub
 /lc5b/welkom-in-het-vijfde-leerjaar
@@ -250,7 +251,6 @@
 /lc5b/leuke-fotos-maken-met-krijttekeningen
 /lc5b/thema-groene-vingers
 /lc5b/knutselen-robots-deel-2
-/lc5b/een-brug-bouwen-naar-het-principe-van
 /lc6a/huis-van-kina
 /lc6a/kazerne-dossin
 /lc6a/g-sport

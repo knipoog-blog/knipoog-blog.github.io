@@ -90,6 +90,9 @@
 /lc1/onze-obe-was-jarig-en-we-hebben-veel
 /lc1/sportdag-op-school-hoe-fijn-dat-we
 /lc1/onze-moestuin-is-klaar-we-hebben-gemest
+/lc2/sinterklaas
+/lc2/kunstwerkjes-in-het-bos-oktober
+/lc2/escapeclass-september
 /lc2/toon-je-sportclub
 /lc2/wie-doet-er-mee-met-ons
 /lc2/welkom-in-onze-klas-maak-kennis-met
@@ -112,9 +115,6 @@
 /lc2/sinterklaas-is-in-het-land
 /lc2/wij-kunnen-tegen-ons-verlies
 /lc2/2-feestvarkentjes
-/lc2/rebeka-blaast-7-kaarsjes-uit
-/lc2/hoera-emiel-is-jarig
-/lc2/allemaal-samen-wie-bouwt-de-hoogste
 /lm1/zwerfvuil-opruimen-in-de-schoolomgeving
 /lm1/sint-op-school
 /lm1/rekenen-met-mab-blokjes-leuk

@@ -150,6 +150,7 @@
 /lc3b/groepslezen
 /lc3b/start-talentenarchipel
 /lc3b/onze-klas
+/lc4a/6-december
 /lc4a/onze-jarigen-van-november-proficiat
 /lc4a/een-halloween-rekenles
 /lc4a/op-uitstap-naar-het-plantin-moretus
@@ -174,7 +175,6 @@
 /lc4a/hiep-hiep-hoera-voor-lennert
 /lc4a/afscheid-van-asha
 /lc4a/kunst-in-de-knipoog
-/lc4a/enkele-proefjes-bij-het-thema
 /lc4b/olivia-verjaart
 /lc4b/griezelen
 /lc4b/uitstap-antwerpen
@@ -251,6 +251,10 @@
 /lc5b/leuke-fotos-maken-met-krijttekeningen
 /lc5b/thema-groene-vingers
 /lc5b/knutselen-robots-deel-2
+/lc6a/we-planten-bomen-schuppen-maar
+/lc6a/samen-studeren-voor-onze-toets-van-wo
+/lc6a/de-sint-kwam-langs
+/lc6a/lantaarntjes-maken-uit-blik
 /lc6a/huis-van-kina
 /lc6a/kazerne-dossin
 /lc6a/g-sport
@@ -272,10 +276,6 @@
 /lc6a/kidbizz-met-6a-en-6b
 /lc6a/sportdagen-sportdag-in-berentrode
 /lc6a/we-traden-in-het-voetspoor-van-slinkachu
-/lc6a/bijna-is-het-zover-dan-start-de
-/lc6a/blog-post
-/lc6a/op-weg-naar-het-secundair
-/lc6a/wo-van-pool-tot-pool
 /lc6b/dia-de-los-muertos-film-coco
 /lc6b/initiatie-g-sport
 /lc6b/bezoek-kazerne-dossin-te-mechelen

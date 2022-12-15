@@ -175,6 +175,9 @@
 /lc4a/hiep-hiep-hoera-voor-lennert
 /lc4a/afscheid-van-asha
 /lc4a/kunst-in-de-knipoog
+/lc4b/ella-is-jarig-en-dat-vieren-wij
+/lc4b/we-feesten-mee-met-axelle
+/lc4b/ciya-was-jarig
 /lc4b/olivia-verjaart
 /lc4b/griezelen
 /lc4b/uitstap-antwerpen
@@ -197,11 +200,11 @@
 /lc4b/happy-birthday-adria
 /lc4b/elektriciteit
 /lc4b/la-musique
-/lc4b/carnaval
-/lc4b/gekke-bekken-even-een-zot-tussendoortje
-/lc4b/ago-was-jarig-en-dat-vieren-wij
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/kerstachtige-boompjes
+/lc5a/sinterklaasbezoek
+/lc5a/mooimakers
 /lc5a/blog-post
 /lc5a/museum-voor-natuurwetenschappen
 /lc5a/kijk-eens-naar-ons-vogeltje
@@ -224,9 +227,6 @@
 /lc5a/bijna-levende-vogels
 /lc5a/loopgraafvoeten-wij-bedachten
 /lc5a/kunstzinnige-uitstap-naar-leuven
-/lc5a/verkiezingen-leerlingenraad
-/lc5a/onze-eerste-uitstap-is-een-feit-we
-/lc5a/programmeren-maar-we-gingen-aan-de-slag
 /lc5b/thema-de-eerste-wereldoorlog
 /lc5b/hip-hip-hoera-jarig-in-september
 /lc5b/toon-je-sportclub
@@ -251,6 +251,7 @@
 /lc5b/leuke-fotos-maken-met-krijttekeningen
 /lc5b/thema-groene-vingers
 /lc5b/knutselen-robots-deel-2
+/lc6a/op-bezoek-in-de-brouwerij-van-haacht
 /lc6a/we-planten-bomen-schuppen-maar
 /lc6a/samen-studeren-voor-onze-toets-van-wo
 /lc6a/de-sint-kwam-langs
@@ -275,7 +276,6 @@
 /lc6a/vaderdag
 /lc6a/kidbizz-met-6a-en-6b
 /lc6a/sportdagen-sportdag-in-berentrode
-/lc6a/we-traden-in-het-voetspoor-van-slinkachu
 /lc6b/dia-de-los-muertos-film-coco
 /lc6b/initiatie-g-sport
 /lc6b/bezoek-kazerne-dossin-te-mechelen

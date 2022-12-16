@@ -227,6 +227,7 @@
 /lc5a/bijna-levende-vogels
 /lc5a/loopgraafvoeten-wij-bedachten
 /lc5a/kunstzinnige-uitstap-naar-leuven
+/lc5b/kerstbomen-timmeren
 /lc5b/thema-de-eerste-wereldoorlog
 /lc5b/hip-hip-hoera-jarig-in-september
 /lc5b/toon-je-sportclub
@@ -250,7 +251,6 @@
 /lc5b/afval-rond-de-schoolomgeving-opruimen
 /lc5b/leuke-fotos-maken-met-krijttekeningen
 /lc5b/thema-groene-vingers
-/lc5b/knutselen-robots-deel-2
 /lc6a/op-bezoek-in-de-brouwerij-van-haacht
 /lc6a/we-planten-bomen-schuppen-maar
 /lc6a/samen-studeren-voor-onze-toets-van-wo

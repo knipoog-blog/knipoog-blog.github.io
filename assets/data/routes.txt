@@ -1,3 +1,4 @@
+/schoolblog/kerstmarkt-in-de-knipoog
 /schoolblog/de-sint-op-bezoek
 /schoolblog/de-eerste-stappen-naar-meer-groen-op
 /schoolblog/hoe-fijn-en-leerrijk-is-dat-elke
@@ -22,7 +23,6 @@
 /schoolblog/piraten-aangekomen-op-de-mart
 /schoolblog/pasta-take-away-dank-je-wel-aan
 /schoolblog/dank-je-wel-aan-de-sympathisanten-die
-/schoolblog/enkele-gedichten-en-fotos-nav
 /sport/g-sportschool-voor-het-6de-leerjaar
 /sport/veldloop-2020
 /sport/korfbalinitiatie-putse-kc
@@ -251,6 +251,7 @@
 /lc5b/afval-rond-de-schoolomgeving-opruimen
 /lc5b/leuke-fotos-maken-met-krijttekeningen
 /lc5b/thema-groene-vingers
+/lc6a/kerstgezelligheid-kerstmarkt
 /lc6a/op-bezoek-in-de-brouwerij-van-haacht
 /lc6a/we-planten-bomen-schuppen-maar
 /lc6a/samen-studeren-voor-onze-toets-van-wo
@@ -275,7 +276,6 @@
 /lc6a/lasershooten-met-6a-en-6b
 /lc6a/vaderdag
 /lc6a/kidbizz-met-6a-en-6b
-/lc6a/sportdagen-sportdag-in-berentrode
 /lc6b/dia-de-los-muertos-film-coco
 /lc6b/initiatie-g-sport
 /lc6b/bezoek-kazerne-dossin-te-mechelen

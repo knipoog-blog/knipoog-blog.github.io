@@ -150,6 +150,7 @@
 /lc3b/groepslezen
 /lc3b/start-talentenarchipel
 /lc3b/onze-klas
+/lc4a/onze-modeshow
 /lc4a/de-kerstmarkt-in-de-knipoog
 /lc4a/hiep-hiep-hoera-voor-eliyo
 /lc4a/6-december
@@ -174,7 +175,6 @@
 /lc4a/onze-jarigen-van-de-maand-december
 /lc4a/drukdrukdruk
 /lc4a/naar-de-jaarmarkt
-/lc4a/hiep-hiep-hoera-voor-lennert
 /lc4b/ella-is-jarig-en-dat-vieren-wij
 /lc4b/we-feesten-mee-met-axelle
 /lc4b/ciya-was-jarig

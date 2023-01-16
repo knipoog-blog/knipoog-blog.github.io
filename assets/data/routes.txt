@@ -175,6 +175,10 @@
 /lc4a/onze-jarigen-van-de-maand-december
 /lc4a/drukdrukdruk
 /lc4a/naar-de-jaarmarkt
+/lc4b/de-eerste-jarige-van-het-jaar
+/lc4b/modeshow-met-kleren-uit-de-tijd-van-toen
+/lc4b/eliana-is-jarig
+/lc4b/kerstmarkt
 /lc4b/ella-is-jarig-en-dat-vieren-wij
 /lc4b/we-feesten-mee-met-axelle
 /lc4b/ciya-was-jarig
@@ -196,10 +200,6 @@
 /lc4b/hipperdepip-lone
 /lc4b/voetgangersexamen-iedereen-geslaagd
 /lc4b/terug-in-de-tijd
-/lc4b/smiske
-/lc4b/happy-birthday-adria
-/lc4b/elektriciteit
-/lc4b/la-musique
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/de-knipoog-houdt-skipiste-open-voor-5a

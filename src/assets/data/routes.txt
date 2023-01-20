@@ -227,6 +227,7 @@
 /lc5a/kerstbomen-made-in-5a
 /lc5a/oorlog-is-geen-spelletje
 /lc5a/bijna-levende-vogels
+/lc5b/koken-op-school
 /lc5b/laatste-les-in-de-pastorij
 /lc5b/kerstuilen-schilderen
 /lc5b/kerstbomen-timmeren
@@ -250,7 +251,6 @@
 /lc5b/programmeren-met-microbits
 /lc5b/5b-ging-10km-op-stap-voor-het-goede
 /lc5b/op-stap-naar-hofstade-hoogteparcours-en
-/lc5b/afval-rond-de-schoolomgeving-opruimen
 /lc6a/de-zesdeklassers-worden-voor-de-leeuwen
 /lc6a/kerstgezelligheid-kerstmarkt
 /lc6a/op-bezoek-in-de-brouwerij-van-haacht

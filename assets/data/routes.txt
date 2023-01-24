@@ -150,6 +150,8 @@
 /lc3b/groepslezen
 /lc3b/start-talentenarchipel
 /lc3b/onze-klas
+/lc4a/wij-zijn-gestart-met-ons-thema-het
+/lc4a/hieperdepiep-voor-lizi
 /lc4a/onze-modeshow
 /lc4a/de-kerstmarkt-in-de-knipoog
 /lc4a/hiep-hiep-hoera-voor-eliyo
@@ -173,8 +175,6 @@
 /lc4a/poppenspel-in-de-wo-les
 /lc4a/onze-modeshow-kledij-door-de-eeuwen-heen
 /lc4a/onze-jarigen-van-de-maand-december
-/lc4a/drukdrukdruk
-/lc4a/naar-de-jaarmarkt
 /lc4b/de-eerste-jarige-van-het-jaar
 /lc4b/modeshow-met-kleren-uit-de-tijd-van-toen
 /lc4b/eliana-is-jarig

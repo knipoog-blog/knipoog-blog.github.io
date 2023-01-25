@@ -202,6 +202,8 @@
 /lc4b/terug-in-de-tijd
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
+/lc5a/tandwielen-juffenwissel
+/lc5a/onze-kookkunsten
 /lc5a/de-knipoog-houdt-skipiste-open-voor-5a
 /lc5a/wij-bouwden-de-brug-van-leonardo-da
 /lc5a/kerstachtige-boompjes
@@ -225,8 +227,6 @@
 /lc5a/onze-robots
 /lc5a/wij-bouwden-de-brug-van-leonardo-da
 /lc5a/kerstbomen-made-in-5a
-/lc5a/oorlog-is-geen-spelletje
-/lc5a/bijna-levende-vogels
 /lc5b/koken-op-school
 /lc5b/laatste-les-in-de-pastorij
 /lc5b/kerstuilen-schilderen

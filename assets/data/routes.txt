@@ -175,6 +175,9 @@
 /lc4a/poppenspel-in-de-wo-les
 /lc4a/onze-modeshow-kledij-door-de-eeuwen-heen
 /lc4a/onze-jarigen-van-de-maand-december
+/lc4b/witloof
+/lc4b/theo-is-jarig
+/lc4b/nog-een-hippie-van-onze-modeshow
 /lc4b/de-eerste-jarige-van-het-jaar
 /lc4b/modeshow-met-kleren-uit-de-tijd-van-toen
 /lc4b/eliana-is-jarig
@@ -197,9 +200,6 @@
 /lc4b/sportdag
 /lc4b/tien
 /lc4b/even-serieus-nu-net-als-vroeger
-/lc4b/hipperdepip-lone
-/lc4b/voetgangersexamen-iedereen-geslaagd
-/lc4b/terug-in-de-tijd
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/tandwielen-juffenwissel

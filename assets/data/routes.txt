@@ -150,6 +150,7 @@
 /lc3b/groepslezen
 /lc3b/start-talentenarchipel
 /lc3b/onze-klas
+/lc4a/naar-de-witloofboer-in-haacht
 /lc4a/wij-zijn-gestart-met-ons-thema-het
 /lc4a/hieperdepiep-voor-lizi
 /lc4a/onze-modeshow
@@ -174,7 +175,6 @@
 /lc4a/james-ensor
 /lc4a/poppenspel-in-de-wo-les
 /lc4a/onze-modeshow-kledij-door-de-eeuwen-heen
-/lc4a/onze-jarigen-van-de-maand-december
 /lc4b/witloof
 /lc4b/theo-is-jarig
 /lc4b/nog-een-hippie-van-onze-modeshow

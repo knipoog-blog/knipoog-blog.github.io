@@ -1,3 +1,5 @@
+/schoolblog/onze-erasmus-leerreis-naar-finland-zit
+/schoolblog/wat-een-fijn-initiatief-kinderen-ouders
 /schoolblog/proficiat-een-eerste-en-derde-plaats-op
 /schoolblog/samen-kerstmis-vieren
 /schoolblog/de-leerlingen-van-de-mart-brengen
@@ -21,8 +23,6 @@
 /schoolblog/projectweek-kunst-in-het-dorp
 /schoolblog/juf-mieke-gaat-met-pensioen-wat-gaan-we
 /schoolblog/onze-leerlingen-van-de-zesde-klas-zijn
-/schoolblog/onze-zesdeklassers-nemen-afscheid-van
-/schoolblog/juf-nele-trouwde-zaterdag-in-bonheiden
 /sport/g-sportschool-voor-het-6de-leerjaar
 /sport/veldloop-2020
 /sport/korfbalinitiatie-putse-kc

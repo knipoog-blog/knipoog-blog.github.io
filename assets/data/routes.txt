@@ -175,6 +175,7 @@
 /lc4a/james-ensor
 /lc4a/poppenspel-in-de-wo-les
 /lc4a/onze-modeshow-kledij-door-de-eeuwen-heen
+/lc4b/bezoekje-aan-de-witloofboer
 /lc4b/witloof
 /lc4b/theo-is-jarig
 /lc4b/nog-een-hippie-van-onze-modeshow
@@ -199,7 +200,6 @@
 /lc4b/moederdag
 /lc4b/sportdag
 /lc4b/tien
-/lc4b/even-serieus-nu-net-als-vroeger
 /lm2/carnaval-hoe-zotter-hoe-leuker
 /lm2/op-stap-voor-mooimakers
 /lc5a/tandwielen-juffenwissel

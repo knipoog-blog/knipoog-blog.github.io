@@ -251,6 +251,7 @@
 /lc5b/programmeren-met-microbits
 /lc5b/5b-ging-10km-op-stap-voor-het-goede
 /lc5b/op-stap-naar-hofstade-hoogteparcours-en
+/lc6a/meervoudige-intelligentie-ieder-het
 /lc6a/de-zesdeklassers-worden-voor-de-leeuwen
 /lc6a/kerstgezelligheid-kerstmarkt
 /lc6a/op-bezoek-in-de-brouwerij-van-haacht
@@ -275,7 +276,6 @@
 /lc6a/100-jaar-wk
 /lc6a/zelf-of-burenportret-geinspireerd-door
 /lc6a/lasershooten-met-6a-en-6b
-/lc6a/vaderdag
 /lc6b/dia-de-los-muertos-film-coco
 /lc6b/initiatie-g-sport
 /lc6b/bezoek-kazerne-dossin-te-mechelen
